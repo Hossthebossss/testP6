@@ -1,0 +1,65 @@
+{
+ "userId": "01"
+  "name": "mustard",
+  "manufacturer": "heinz",
+  "description": { "yellow flavor" },
+  "mainPepper": {"test"  },
+  "imageUrl": {"https://m.media-amazon.com/images/I/71DjQf4DdzL.jpg"},
+  "heat": { 5 },
+  "likes": { 20 },
+  "dislikes": { 2 },
+  "usersLiked": { "2" },
+  "usersDisliked": { "5" },
+}
+
+{
+ "userId": "02"
+  "name": "ketchup",
+  "manufacturer": "heinz",
+  "description": { "red tomato with little sweet" },
+  "mainPepper": { "test" },
+  "imageUrl": { "https://www.kroger.com/product/images/large/front/0001300000466" },
+  "heat": { 0 },
+  "likes": { 10 },
+  "dislikes": { 2 },
+  "usersLiked": { "10" },
+  "usersDisliked": { "2"},
+}
+
+"userId": "03"
+"name": "sweet relish"
+"manufacturer": "heinz"
+"description": "sweet flavor"
+"mainPepper": {"test"}
+"imageUrl": {" https://m.media-amazon.com/images/I/71-NiJNasvL.jpg"}
+"heat": {0 }
+"likes": {15}
+"dislikes": {3}
+"usersLiked":{"6"}
+"usersDisliked":{"7"}
+
+
+"userId": "04"
+"name": "tangy jalapeno"
+"manufacturer": "heinz"
+"description": "spice sause"
+"mainPepper": {"test"}
+"imageUrl": {"https://shop.usa-4u.eu/media/catalog/product/cache/2/image/3000x/040ec09b1e35df139433887a97daa66f/h/o/hot_sauce_tangy-jalapeno-150ml_1280x960.png"}
+"heat": {7 }
+"likes": {12}
+"dislikes": {2}
+"usersLiked":{"9"}
+"usersDisliked":{"5"}
+
+
+"userId": "05"
+"name": "Franks red hot wings"
+"manufacturer": "Franks"
+"description": "nashville Hot"
+"mainPepper": {"test"}
+"imageUrl": {"https://mccormick.widen.net/content/hbjgkmzoqo/png/franks%20redhot%20nashville%20hot%20v4.png"}
+"heat": {9 }
+"likes": {17}
+"dislikes": {2}
+"usersLiked":{"7"}
+"usersDisliked":{"4"}
